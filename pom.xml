@@ -10,6 +10,8 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>design_patterns</module>
+        <module>multi-thread</module>
+        <module>proxy-patterns</module>
     </modules>
 
 
