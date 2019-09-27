@@ -12,6 +12,7 @@
         <module>design_patterns</module>
         <module>multi-thread</module>
         <module>proxy-patterns</module>
+        <module>io</module>
     </modules>
 
 
