@@ -1,4 +1,4 @@
-package com.beofy.cglib.proxy;
+package cn.zmxblog.proxy.cglib.proxy;
 
 import net.sf.cglib.proxy.Enhancer;
 import net.sf.cglib.proxy.MethodInterceptor;

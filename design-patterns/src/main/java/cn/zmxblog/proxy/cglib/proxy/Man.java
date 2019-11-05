@@ -1,4 +1,4 @@
-package com.beofy.cglib.proxy;
+package cn.zmxblog.proxy.cglib.proxy;
 
 public class Man {
 

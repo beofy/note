@@ -9,9 +9,8 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>design_patterns</module>
+        <module>design-patterns</module>
         <module>multi-thread</module>
-        <module>proxy-patterns</module>
         <module>io</module>
     </modules>
 

@@ -1,4 +1,4 @@
-package com.beofy.dynamic.proxy;
+package cn.zmxblog.proxy.dynamic.proxy;
 
 public interface DoSomeThing {
 
