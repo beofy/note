@@ -9,6 +9,6 @@ public class BinLi implements Car{
     public String binLi="binLi";
 
     public String name() {
-        return "binli";
+        return binLi;
     }
 }

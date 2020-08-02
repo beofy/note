@@ -9,6 +9,6 @@ public class BaoMa implements Car{
     public String baoMa="baoMa";
 
     public String name() {
-        return "baoma";
+        return baoMa;
     }
 }

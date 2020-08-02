@@ -9,6 +9,6 @@ public class BenChi implements Car{
     public String benChi="benChi";
 
     public String name() {
-        return "benchi";
+        return benChi;
     }
 }
